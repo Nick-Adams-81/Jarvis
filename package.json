@@ -1,0 +1,26 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Jarvis powered by ChatGPT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Adams-81/Jarvis.git"
+  },
+  "author": "Nick Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nick-Adams-81/Jarvis/issues"
+  },
+  "homepage": "https://github.com/Nick-Adams-81/Jarvis#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.21.0",
+    "readline-sync": "^1.4.10"
+  }
+}
