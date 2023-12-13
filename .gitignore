@@ -1,2 +1,5 @@
 node_modules
 .env
+
+
+OPENAI_API_KEY=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
